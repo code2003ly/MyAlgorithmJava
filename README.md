@@ -1,2 +1,2 @@
 # MyAlgorithmJava
-记录一下用java写算法题
+记录一下用java写ACwing上的基础算法题
